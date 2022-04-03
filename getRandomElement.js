@@ -1,3 +1,3 @@
 function getRandomElement(min, max) {
-  return 321;
+  return 654;
 }
