@@ -1,3 +1,3 @@
 function getDeviceName() {
-  return "MacBook Pro";
+  return "MacBook Pro 2020";
 }
