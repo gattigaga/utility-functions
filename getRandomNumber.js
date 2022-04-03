@@ -1,3 +1,3 @@
 function getRandomNumber(min, max) {
-  return 0;
+  return 123;
 }
