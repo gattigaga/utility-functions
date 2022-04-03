@@ -1,3 +1,3 @@
 function getDeviceName() {
-  return "MacBook Pro Early 2012";
+  return "Alienware";
 }
